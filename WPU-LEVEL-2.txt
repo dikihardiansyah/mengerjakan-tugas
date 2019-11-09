@@ -3,6 +3,7 @@ Rencana konten wpu
 - Javascrip
  - ESC
   - Framwork Javascrip
+   - React
 -Web
    - Struktur data dasar
 -Laravel
