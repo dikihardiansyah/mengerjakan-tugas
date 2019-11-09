@@ -3,7 +3,10 @@ Rencana konten wpu
 - Javascrip
  - ESC
   - Framwork Javascrip
-   - struktur data dasar
+-Web
+   - Struktur data dasar
+-Laravel
 - PHP freaworks
 - Interview
 - Vlogs
+- Python
